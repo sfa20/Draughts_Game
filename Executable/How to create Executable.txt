@@ -1,0 +1,8 @@
+
+1. Open SourceCode Folder
+2. Open Checkers.sln
+3. From the menu along the top select build then click build solution
+4. Once this has run close the program 
+5. Back in the SourceCode Folder select the Checkers folder 
+6. Followed by the bin Folder
+7. Finally the .exe file can be found in the debug folder
